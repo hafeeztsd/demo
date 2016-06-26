@@ -2,3 +2,4 @@ this is my first change in this text file.
 forgot to add another change... 
 Done with the remaining changes.
 Adding CSS classes for paragraph and list items.
+Created a new style sheet class for table borders.
